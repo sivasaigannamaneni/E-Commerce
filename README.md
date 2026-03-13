@@ -8,9 +8,7 @@ This project demonstrates scalable architecture, secure authentication, and mode
 - Backend: Java, Spring Boot, Microservices
 - API Gateway: Spring Cloud Gateway
 - Service Registry & Discovery: Eureka
-- Resilience & Fault Tolerance: Resilience4j (Circuit Breaker, Retry, Rate Limiter)
 - Configuration Management: Spring Cloud Config
-- Security: Spring Security, JWT, OAuth2
 - Database: (MySQL)
 
 🧩 Microservices Implemented
